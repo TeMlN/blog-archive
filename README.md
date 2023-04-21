@@ -1,5 +1,6 @@
 ## Blog Archive
 
+* [JPA Buddy를 사용해서 DDL을 JPA 엔티티 클래스로 변환하기] (https://martial.tistory.com/9)
 * [당신이 작성한 자바 코드가 실행되기 까지 - 클래스 로더 편](https://martial.tistory.com/8)
 * [Code Deploy를 사용하여 CICD 구축중 Code Deploy Agent관련 trouble shooting](https://martial.tistory.com/7)
 * [Kotlin 환경에서 프로퍼티 바인딩한 프로퍼티를 참조한 또다른 프로퍼티를 생성하는 방법](https://martial.tistory.com/6)
